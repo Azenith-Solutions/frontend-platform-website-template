@@ -27,9 +27,9 @@ src/
 npm run dev
 
 dependencies
-    - styled-components -> we gonna use to style in js
-    - 
-    - react-router-dom -> we gonna use to setup the routes etc
+    - npm intall styled-components -> we gonna use to style in js
+    - npm install tailwindcss @tailwindcss/vite
+    - npm install react-router-dom -> we gonna use to setup the routes etc
 
 
 on the same root of main.jsx, modify the index.html
