@@ -5,7 +5,7 @@ first of all - using VITE
 npm create vite@latest .
 
 ignore files and continue
-choose reactjs + typescript
+choose reactjs + typescript (what if ts became requirement)
 npm install
 
 npm run dev -> to test application 
