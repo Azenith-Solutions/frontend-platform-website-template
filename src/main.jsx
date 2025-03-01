@@ -2,7 +2,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 
 // components basic
-import Example from './components/Example'
+import Example from './components/ExampleBase'
 
 // components using props -> children
 import ExampleChildren from './components/ExampleChildren'
