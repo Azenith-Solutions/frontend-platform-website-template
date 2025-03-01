@@ -10,6 +10,10 @@ import ExampleChildren from './components/ExampleChildren'
 // components using props -> parameters
 import ExampleParameters from './components/ExampleParameters'
 
+// components using tailwind ui css
+import './styles/tailwind.css' // importing tailwind on the page, the olders styles gonna be changed also.
+import ExampleTailwind from './components/ExampleTailwind'
+
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Example/>
@@ -19,5 +23,7 @@ createRoot(document.getElementById('root')).render(
     </ExampleChildren>
 
     <ExampleParameters title="This is" description="a component using props parameters"/>
+
+    <ExampleTailwind/>
   </StrictMode>,
 )

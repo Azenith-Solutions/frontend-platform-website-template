@@ -32,6 +32,7 @@ src/
 dependencies
     - npm install styled-components -> we gonna use to style in js
     - npm install tailwindcss @tailwindcss/vite
+      - on vite.config.ts -> add tailwindcss(), for precaution
     - npm install react-router-dom -> we gonna use to setup the routes etc
 
 
