@@ -4,10 +4,13 @@ explaining how i will do the setup
 first of all - using VITE 
 npm create vite@latest .
 
-ignore files
+ignore files and continue
 choose reactjs + js
 npm install
 
+npm run dev -> to test application 
+
+ctrl + c - stop running
 delete Index.css, App.css, App.jsx
 only let the main.jsx or main.js
 
@@ -24,7 +27,7 @@ src/
   ├── services/      # external services (API, etc)
   └── utils/         # useful functions
 
-npm run dev
+
 
 dependencies
     - npm intall styled-components -> we gonna use to style in js
