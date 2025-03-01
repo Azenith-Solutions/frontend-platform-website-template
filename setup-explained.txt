@@ -1,0 +1,31 @@
+explaining how i will do the setup
+
+ignore files
+choose reactjs + js
+npm install
+
+delete Index.css, App.css, App.jsx
+only let the main.jsx or main.js
+
+
+
+let the structure like:
+
+src/
+  ├── assets/         # images, fonts, etc
+  ├── components/     # components reusable
+  ├── pages/         # pages of app
+  ├── styles/        # themes, global styles, etc
+  ├── routes/        # routes settings
+  ├── services/      # external services (API, etc)
+  └── utils/         # useful functions
+
+npm run dev
+
+dependencies
+    - styled-components -> we gonna use to style 
+    - react-router-dom -> we gonna use to setup the routes etc
+
+
+on the same root of main.jsx, modify the index.html
+put the basic html to change the title and ico
