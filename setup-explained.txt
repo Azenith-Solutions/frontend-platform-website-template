@@ -1,5 +1,9 @@
 explaining how i will do the setup
 
+
+first of all - using VITE 
+npm create vite@latest .
+
 ignore files
 choose reactjs + js
 npm install
@@ -23,7 +27,8 @@ src/
 npm run dev
 
 dependencies
-    - styled-components -> we gonna use to style 
+    - styled-components -> we gonna use to style in js
+    - 
     - react-router-dom -> we gonna use to setup the routes etc
 
 
