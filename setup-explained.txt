@@ -38,3 +38,15 @@ dependencies
 
 on the same root of main.jsx, modify the index.html
 put the basic html to change the title and ico
+
+reactjs design patter has been used to create the components¹
+
+------------------------------------------------------------------------------
+
+
+to run this project:
+npm i
+npm run dev 
+
+done.
+
